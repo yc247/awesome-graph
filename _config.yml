@@ -1,19 +1,10 @@
-title: Yucheng Fang # your name (or website title) here
-logo: "images/DSCF2043.png?raw=true" # your photo (or logo) here
+title: Knowledge Graph # your name (or website title) here
+logo: "images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
    <br><br>
-   As a recent graduate with a Master of Science in Applied Data Science from the University of Chicago, I combine an interdisciplinary background in mathematics and communications, with hands-on experience in building real-world data solutions. 
+   We're going to take you on a fun journey to craft a stunning personal website using GitLab Pages! We’ve got a super simple, versatile template that you can easily jazz up to reflect your unique style.   <br><br>
+   Graph
    <br><br>
-   My experience spans machine learning, NLP, forecasting, and full-stack data pipeline development—equipping me to tackle complex, data-driven challenges with both depth and adaptability.
-   <br><br>
-   <a href="https://www.linkedin.com/in/yuchengfg">View My LinkedIn Profile</a> 
-   <br><br>
-   <a href="https://calendly.com/yucheng-fg/30min">Schedule a Chat with Me</a>
-
+   
 theme: jekyll-theme-minimal
 future: true
-  
-# remote_theme: pages-themes/minimal@v0.2.0
-# plugins:
-# - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
